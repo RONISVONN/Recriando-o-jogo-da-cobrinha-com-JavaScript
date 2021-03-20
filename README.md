@@ -1,6 +1,6 @@
 <!--Banner -->
 <p align="center">
-  <img src="img/banner-dio.png" alt="DIO" title="Digital Innovation One">
+  <img src="img/banner-dio.png" alt="DIO" title="Digital Innovation One" title="Badge" width="50%" height="50%">
 </p>
 
 <!--About session-->
@@ -8,7 +8,7 @@
 
 Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-<img src="img/badge-dio.png" title="Badge" width="40" height="40">
+<img src="img/badge-dio.png" title="Badge" width="70" height="70">
 
 Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha (Game Snake) utilizando HTML, CSS e JavaScript.
 
