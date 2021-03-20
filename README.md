@@ -1,6 +1,6 @@
 <!--Banner -->
 <p align="center">
-  <img src="img/banner-dio" alt="DIO" title="Digital Innovation One">
+  <img src="img/banner-dio.png" alt="DIO" title="Digital Innovation One">
 </p>
 
 <!--About session-->
