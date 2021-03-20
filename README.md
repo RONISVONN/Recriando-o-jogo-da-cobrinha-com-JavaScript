@@ -1,6 +1,6 @@
 <!--Banner -->
 <p align="center">
-  <img src="img/logo-dio.png" alt="DIO" title="Digital Innovation One">
+  <img src="img/banner-dio" alt="DIO" title="Digital Innovation One">
 </p>
 
 <!--About session-->
@@ -8,7 +8,7 @@
 
 Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-<img src="" title="Badge" width="70" height="70">
+<img src="img/badge-dio.png" title="Badge" width="70" height="70">
 
 Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha (Game Snake) utilizando HTML, CSS e JavaScript.
 
@@ -31,4 +31,4 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 - Este projeto está sob a licença [MIT](./LICENSE).<br>
 
 <!--Bottom session-->
-<br><h4 align=center>Made with by <a target="_blank" href="" >RONISVONN GOMES</a></h4>
+<br><h4 align=center>Feito com por <a target="_blank" href="" >RONISVONN GOMES</a></h4>
