@@ -12,8 +12,6 @@ Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digital
 
 Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha (Game Snake) utilizando HTML, CSS e JavaScript.
 
-<i>Depois vou codificá-lo de forma responsiva. Ainda falta algumas melhorias a serem realizadas, como contagem de tempo e de comida utilizada, e mostrar uma mensagem de Game Over.</i>
-
 - [Projeto desenvolvido](#)
 
 <p align="center"><img src="img/snake.gif" title="Game Snake - DIO"></p>
