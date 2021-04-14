@@ -29,4 +29,4 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 - Este projeto está sob a licença [MIT](./LICENSE).<br>
 
 <!--Bottom session-->
-<br><h4 align=center>Feito com por <a target="_blank" href="" >RONISVONN GOMES</a></h4>
+<br><h4 align=center>Desenvolvido com por <a target="_blank" href="" >RONISVONN GOMES</a></h4>
